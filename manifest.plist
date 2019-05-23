@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.10.179:8001/ADNet.ipa</string>
+					<string>http://192.168.10.115:8080/myfiles/ADNet.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.10.179:8001/ADNet57.png</string>
+					<string>http://192.168.10.115:8080/myfiles/ADNet57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.10.179:8001/ADNet512.png</string>
+					<string>http://192.168.10.115:8080/myfiles/ADNet512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
